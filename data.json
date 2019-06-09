@@ -1,0 +1,399 @@
+{
+	"msg": "查询成功!",
+	"errCode": 0,
+	"flightInfos": [{
+		"airlineCompany": "中国国际航空股份有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 13:00:00",
+		"tkTime": "2019-04-23 08:40:00",
+		"lowestPriceInfo": {
+			"discount": 6.5,
+			"price": 2180,
+			"standardPrice": 3360,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "CA3633",
+		"onTimeRate": 98.32,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "深圳航空有限责任公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 13:00:00",
+		"tkTime": "2019-04-23 08:40:00",
+		"lowestPriceInfo": {
+			"discount": 6.5,
+			"price": 2180,
+			"standardPrice": 3360,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "ZH9621",
+		"onTimeRate": 98.32,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "中国南方航空股份有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 16:25:00",
+		"tkTime": "2019-04-23 11:50:00",
+		"lowestPriceInfo": {
+			"discount": 4.9,
+			"price": 1650,
+			"standardPrice": 3360,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "CZ3633",
+		"onTimeRate": 93.1,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "中国南方航空股份有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 18:40:00",
+		"tkTime": "2019-04-23 14:15:00",
+		"lowestPriceInfo": {
+			"discount": 4.9,
+			"price": 1650,
+			"standardPrice": 3360,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "CZ6274",
+		"onTimeRate": 98.32,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "中国南方航空股份有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 19:25:00",
+		"tkTime": "2019-04-23 14:55:00",
+		"lowestPriceInfo": {
+			"discount": 4.9,
+			"price": 1650,
+			"standardPrice": 3360,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "CZ6481",
+		"onTimeRate": 91.29,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "东海航空公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [{
+			"transferCity": "邯郸",
+			"stayTime": 70,
+			"departTime": "2019-04-23 10:20:00",
+			"transferProvince": "河北",
+			"arriveTime": "2019-04-23 09:10:00"
+		}],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 12:50:00",
+		"tkTime": "2019-04-23 06:20:00",
+		"lowestPriceInfo": {
+			"discount": 4.2,
+			"price": 1290,
+			"standardPrice": 3060,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "DZ6273",
+		"onTimeRate": 91.29,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "厦门航空有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [{
+			"transferCity": "杭州",
+			"stayTime": 65,
+			"departTime": "2019-04-23 09:50:00",
+			"transferProvince": "浙江",
+			"arriveTime": "2019-04-23 08:45:00"
+		}],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 12:55:00",
+		"tkTime": "2019-04-23 06:35:00",
+		"lowestPriceInfo": {
+			"discount": 4.9,
+			"price": 1370,
+			"standardPrice": 2790,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "MF8089",
+		"onTimeRate": 94.59,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "长龙航空",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [{
+			"transferCity": "乌兰浩特",
+			"stayTime": 45,
+			"departTime": "2019-04-23 17:00:00",
+			"transferProvince": "内蒙古",
+			"arriveTime": "2019-04-23 16:15:00"
+		}],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 18:05:00",
+		"tkTime": "2019-04-23 12:10:00",
+		"lowestPriceInfo": {
+			"discount": 4.0,
+			"price": 1218,
+			"standardPrice": 3060,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "GJ8681",
+		"onTimeRate": 98.32,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "深圳航空有限责任公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [{
+			"transferCity": "南通",
+			"stayTime": 50,
+			"departTime": "2019-04-23 20:20:00",
+			"transferProvince": "江苏",
+			"arriveTime": "2019-04-23 19:30:00"
+		}],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 22:50:00",
+		"tkTime": "2019-04-23 17:00:00",
+		"lowestPriceInfo": {
+			"discount": 3.9,
+			"price": 1310,
+			"standardPrice": 3360,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "ZH8957",
+		"onTimeRate": 72.55,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "四川航空股份有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [{
+			"transferCity": "杭州",
+			"stayTime": 70,
+			"departTime": "2019-04-23 20:20:00",
+			"transferProvince": "浙江",
+			"arriveTime": "2019-04-23 19:10:00"
+		}],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 23:35:00",
+		"tkTime": "2019-04-23 17:05:00",
+		"lowestPriceInfo": {
+			"discount": 4.9,
+			"price": 1634,
+			"standardPrice": 2790,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "3U3078",
+		"onTimeRate": 77.46,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "中国南方航空股份有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [{
+			"transferCity": "杭州",
+			"stayTime": 70,
+			"departTime": "2019-04-23 20:20:00",
+			"transferProvince": "浙江",
+			"arriveTime": "2019-04-23 19:10:00"
+		}],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 23:35:00",
+		"tkTime": "2019-04-23 17:05:00",
+		"lowestPriceInfo": {
+			"discount": 4.0,
+			"price": 1340,
+			"standardPrice": 3360,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "CZ3744",
+		"onTimeRate": 77.46,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "厦门航空有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 16:25:00",
+		"tkTime": "2019-04-23 11:50:00",
+		"lowestPriceInfo": {
+			"discount": 4.9,
+			"price": 1659,
+			"standardPrice": 2790,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "MF1350",
+		"onTimeRate": 93.1,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "厦门航空有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 18:40:00",
+		"tkTime": "2019-04-23 14:15:00",
+		"lowestPriceInfo": {
+			"discount": 4.9,
+			"price": 1660,
+			"standardPrice": 2790,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "MF1351",
+		"onTimeRate": 98.32,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "厦门航空有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 19:25:00",
+		"tkTime": "2019-04-23 14:55:00",
+		"lowestPriceInfo": {
+			"discount": 4.9,
+			"price": 1658,
+			"standardPrice": 2790,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "MF1352",
+		"onTimeRate": 91.29,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "厦门航空有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [{
+			"transferCity": "杭州",
+			"stayTime": 70,
+			"departTime": "2019-04-23 20:20:00",
+			"transferProvince": "浙江",
+			"arriveTime": "2019-04-23 19:10:00"
+		}],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 23:35:00",
+		"tkTime": "2019-04-23 17:05:00",
+		"lowestPriceInfo": {
+			"discount": 4.0,
+			"price": 1356,
+			"standardPrice": 2790,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "MF1046",
+		"onTimeRate": 77.46,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "春秋航空",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [{
+			"transferCity": "淮安",
+			"stayTime": 50,
+			"departTime": "2019-04-23 09:45:00",
+			"transferProvince": "江苏",
+			"arriveTime": "2019-04-23 08:55:00"
+		}],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 12:15:00",
+		"tkTime": "2019-04-23 06:20:00",
+		"lowestPriceInfo": {
+			"discount": 3.2,
+			"price": 990,
+			"standardPrice": 3060,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "9C8671",
+		"onTimeRate": 98.32,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}, {
+		"airlineCompany": "中国南方航空股份有限公司",
+		"leaveBuilding": "T3航站楼",
+		"transferList": [{
+			"transferCity": "杭州",
+			"stayTime": 65,
+			"departTime": "2019-04-23 09:50:00",
+			"transferProvince": "浙江",
+			"arriveTime": "2019-04-23 08:45:00"
+		}],
+		"leavePort": "宝安国际机场",
+		"arTime": "2019-04-23 12:55:00",
+		"tkTime": "2019-04-23 06:35:00",
+		"lowestPriceInfo": {
+			"discount": 5.5,
+			"price": 1850,
+			"standardPrice": 3360,
+			"oilFee": 0,
+			"buildTax": 50
+		},
+		"arriveCity": "哈尔滨",
+		"leaveCity": "深圳",
+		"flightNo": "CZ5030",
+		"onTimeRate": 94.59,
+		"arrivePort": "太平国际机场",
+		"arriveBuilding": "T2航站楼"
+	}]
+}
